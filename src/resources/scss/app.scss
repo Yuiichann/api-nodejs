@@ -1,0 +1,13 @@
+@import "variables";
+
+.header {
+    width: 300px;
+    &__nav {
+        text-decoration: none;
+        color: red;
+    }
+}
+
+h2 {
+    color: $color;
+}

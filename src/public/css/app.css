@@ -1,0 +1,8 @@
+.header {
+  width: 300px; }
+  .header__nav {
+    text-decoration: none;
+    color: red; }
+
+h2 {
+  color: red; }
