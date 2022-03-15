@@ -29,6 +29,10 @@ app.get('/', (req, res) => {
    ])
 })
 
+app.get('/tubuscu', (req, res) => {
+    res.json({message: "Tú BusCu"})
+})
+
 // app.get('/news', (req, res) => {
 //     res.render('news')
 // })
